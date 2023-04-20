@@ -1,7 +1,7 @@
 import re
 import os
 import nltk
-nltk.download('wordnet')
+#nltk.download('wordnet')
 import joblib
 import requests
 import numpy as np
