@@ -12,3 +12,7 @@ Step 2-Run the following command before the first run:
        pip install wordcloud nltk selenium
 Step 3-In code (app.py) before running first time
       uncomment the line (4,19,20) 
+
+You can run your code now (or command flask run) and it will be hosted on local server:)
+
+![Screenshot (327)](https://user-images.githubusercontent.com/70972976/233434966-2856f0fd-5f71-4590-a9f4-420f8e308d7e.png)
